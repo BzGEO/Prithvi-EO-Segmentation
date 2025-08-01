@@ -1,0 +1,6 @@
+requests
+tqdm
+torch
+albumentations
+tensorflow
+numpy
