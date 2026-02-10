@@ -1,8 +1,10 @@
 # Prithvi-EO-Segmentation
 
-**Description:** This repo is forked from the ['Prithvi-EO-Segmentation'](https://github.com/easare377/Prithvi-EO-Segmentation) code repository developed by [Emmanuel Asare](https://github.com/easare377) of the University of Floria. His repo was developed leveraging the [Prithvi Earth Observation (EO) foundational model](https://science.nasa.gov/science-research/ai-geospatial-model-earth/) from NASA ODSI and IBM, specifically for **land cover classification** in this case. In this case, Prithvi EO was fine-tuned for the detection of **artisanal mining activity** using **Sentinel-2** imagery.
+### Description
+This repo is forked from the ['Prithvi-EO-Segmentation'](https://github.com/easare377/Prithvi-EO-Segmentation) code repository developed by [Emmanuel Asare](https://github.com/easare377) of the University of Floria. His repo was developed leveraging the [Prithvi Earth Observation (EO) foundational model](https://science.nasa.gov/science-research/ai-geospatial-model-earth/) from NASA ODSI and IBM, specifically for **land cover classification** in this case. In this case, Prithvi EO was fine-tuned for the detection of **artisanal mining activity** using **Sentinel-2** imagery.
 
-**How it works:** This repository's code is run in four separate steps:
+### How it works
+This repository's code is run in four separate steps:
 
 1. [Sentinel-2 data pre-processing](https://github.com/BzGEO/Prithvi-EO-Segmentation/blob/main/01_Pre_process_data__v2025-08-06_eac.ipynb)
 2. [Prepration of training data](https://colab.research.google.com/drive/1kMV3Nz2CROP3ohB7vlK9v4SmWZQaGLjd) ➡️ *this is a direct link to the Google Colab notebook*
