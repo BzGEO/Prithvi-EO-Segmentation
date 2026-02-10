@@ -1,6 +1,6 @@
 # Prithvi-EO-Segmentation
 
-**Description:** This repo is forked from the ['Prithvi-EO-Segmentation'](https://github.com/easare377/Prithvi-EO-Segmentation) code repository developed by [Emmanuel Asare](https://github.com/easare377) of the University of Floria. His repo was developed leveraging the Prithvi Earth Observation (EO) foundational model from NASA ODSI and IBM, specifically for **land cover classification** in this case. In this case, Prithvi EO was fine-tuned for the detection of **artisanal mining activity** using **Sentinel-2** imagery.
+**Description:** This repo is forked from the ['Prithvi-EO-Segmentation'](https://github.com/easare377/Prithvi-EO-Segmentation) code repository developed by [Emmanuel Asare](https://github.com/easare377) of the University of Floria. His repo was developed leveraging the [Prithvi Earth Observation (EO) foundational model](https://science.nasa.gov/science-research/ai-geospatial-model-earth/) from NASA ODSI and IBM, specifically for **land cover classification** in this case. In this case, Prithvi EO was fine-tuned for the detection of **artisanal mining activity** using **Sentinel-2** imagery.
 
 **How it works:** This repository's code is run in four separate steps:
 
